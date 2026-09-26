@@ -1,4 +1,4 @@
-t# Binance Futures HQ Signal Monitor
+xt# Binance Futures HQ Signal Monitor
 
 Production-ready **Order Block + Lifecycle** scanner for Binance USDT-M Futures.
 
