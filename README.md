@@ -1,6 +1,6 @@
 # Binance Futures HQ Signal Monitor
 
-Production-ready **Order Block + Lifecycle** scanner for Binance USDT-M Futures.
+Production-ready **Ordhhher Block + Lifecycle** scanner for Binance USDT-M Futures.
 
 - **Server-side scan** every 5 minutes (Vercel Cron) — browser does **not** need to stay open
 - **Signal lifecycle**: WATCHING → READY → ONGOING → COMPLETED_PROFIT / STOPPED / INVALIDATED
