@@ -1,4 +1,4 @@
-# Binance Futures HQ Signal Monitor
+# Binance Futures sshshsHQ Signal Monitor
 
 Production-ready **Ordhhher Block + Lifecycle** scanner for Binance USDT-M Futures.
 
